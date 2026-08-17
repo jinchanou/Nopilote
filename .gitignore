@@ -1,0 +1,6 @@
+.build/
+.build-home/
+dist/
+.DS_Store
+DerivedData/
+*.xcuserstate
